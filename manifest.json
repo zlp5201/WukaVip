@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "看VIP",
+   "icons": {
+      "128": "vip.png",
+      "16": "vip.png",
+      "48": "vip.png"
+   },
+   "browser_action": {
+        "default_icon": "vip.png",
+        "default_title": "看VIP"
+    },
+   "manifest_version": 2,
+   "name": "看VIP",
+   "description": "看爱奇艺、优酷土豆、芒果、腾讯、搜狐等vip会员视频利器，本插件仅供娱乐，不保证持续更新支持，请低调使用~~",
+   "permissions": [ "background","contextMenus","tabs" ],
+   "version": "0.0.0.1"
+}
