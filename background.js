@@ -1,9 +1,9 @@
 
 vip_url = {
-    'byg-百域阁':'http://api.baiyug.cn/vip/index.php?url=',
+    'byg-百域阁':'http://yun.baiyug.cn/vip/?url=',
     '2gty-爱跟影院':'http://2gty.com/apiurl/yun.php?url=',
     'wmxz-无名小站':'http://www.wmxz.wang/video.php?url=',
-    'vip-vip视频解析':'http://www.vipjiexi.com/yun.php?url=',
+    'vip-vip视频解析':'http://www.a305.org/yun.php?url=',
     'daidaitv-daidaitv':'https://api.daidaitv.com/index/?url=',
     'gaoduan-高端解析':'http://jx.vgoodapi.com/jx.php?url=',
     'jlsprh-免费无广告':'http://vip.jlsprh.com/',
@@ -15,11 +15,29 @@ vip_url = {
     '91exp-91exp':'http://api.91exp.com/svip/?url=',
     'shitou-石头免费':'http://jiexi.071811.cc/jx2.php?url=',
     'xcq91-阿莫之家':'http://api.xcq91.top/?url=',
-    'ejiafarm-穷二代视频解析':'http://jx.ejiafarm.com/dy.php?url=',
-    'mlxztz-穷二代视频解析2':'http://mlxztz.com/player.php?url='
+    'ejiafarm-穷二代视频解析':'http://jx.ejiafarm.com/dy.php?url='
 };
 
-
+/**
+<select class="wow fadeInRight animated" id="jiekou" name="jiekou" style="visibility: visible; animation-name: fadeInRight;">
+                    <option value="http://000o.cc/jx/ty.php?url=">默认接口（推荐）</option>
+                    <option value="http://65yw.2m.vc/chaojikan.php?url=">万能接口1</option>
+                    <option value="http://000o.cc/jx/ty.php?url=">万能接口2</option>	
+                    <option value="http://vip.jlsprh.com/index.php?url=">万能接口3</option>
+                    <option value="http://www.82190555.com/index/qqvod.php?url=">万能接口4</option>
+                    <option value="http://www.chepeijian.cn/jiexi/vip.php?url=">万能接口5</option>
+                    <option value="http://yyygwz.com/index.php?url=">万能接口6</option>
+                    <option value="http://www.vipjiexi.com/tong.php?url=">腾讯视频接口1</option>	
+                    <option value="http://yyygwz.com/index.php?url=">爱奇艺超清接口1</option>
+                    <option value="http://api.47ks.com/webcloud/?v=">爱奇艺超清接口2</option>
+                    <option value="http://www.vipjiexi.com/tong.php?url=">爱奇艺超清接口3</option>
+                    <option value="http://www.vipjiexi.com/yun.php?url=">芒果TV超清接口</option>
+                    <option value="http://65yw.2m.vc/chaojikan.php?url=">芒果TV手机接口</option>
+                    <option value="http://v.rpsofts.com/v.php?url=">优酷超清接口</option>
+                    <option value="http://65yw.2m.vc/chaojikan.php?url=">搜狐视频接口</option>
+                    <option value="http://2gty.com/apiurl/yun.php?url=">乐视视频接口</option> 
+                </select>
+ */
 
 chrome.runtime.onInstalled.addListener(function () {
     var i = 0;
