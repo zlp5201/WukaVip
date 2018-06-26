@@ -6,16 +6,15 @@ vip_url = {
     'vip-vip视频解析':'http://www.a305.org/yun.php?url=',
     'daidaitv-daidaitv':'https://api.daidaitv.com/index/?url=',
     'gaoduan-高端解析':'http://jx.vgoodapi.com/jx.php?url=',
-    'jlsprh-免费无广告':'http://vip.jlsprh.com/',
     'aikan-免费无广告':'http://aikan-tv.com/?url=',
     'nepian-那片':'http://api.nepian.com/ckparse/?url=',
     '88gc-花园影视':'http://j.88gc.net/jx/?url=',
-    'jqaaa-金桥解析':'http://jqaaa.com/jx.php?url=',
+    'jq-金桥解析':'http://jqaaa.com/jx.php?url=',
     'mt2t-云播放':'http://y.mt2t.com/lines?url=',
-    '91exp-91exp':'http://api.91exp.com/svip/?url=',
+    'jfys-减肥影视VIP':'http://api.91exp.com/svip/?url=',
     'shitou-石头免费':'http://jiexi.071811.cc/jx2.php?url=',
-    'xcq91-阿莫之家':'http://api.xcq91.top/?url=',
-    'ejiafarm-穷二代视频解析':'http://jx.ejiafarm.com/dy.php?url='
+    'amzj-阿莫之家':'http://api.xcq91.top/?url=',
+    'bad-百度穷二代视频解析':'http://jx.ejiafarm.com/dy.php?url='
 };
 
 /**
