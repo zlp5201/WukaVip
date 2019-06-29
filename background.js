@@ -1,11 +1,15 @@
 
 vip_url = {
+    '618g-618G解析':'https://jx.618g.com/?url=',
+    'ikkk-爱酷看看':'https://www.ikukk.com/?url=',
     '2gty-爱跟影院':'http://2gty.com/apiurl/yun.php?url=',
-    'wmxz-无名小站':'http://www.wmxz.wang/video.php?url=',
-   'yimo-高科技电影':'http://jx.yimo520.com/?url=',
+    'wmxz-无名小站':'https://www.administratorw.com/video.php?url=',
+   'lua-解析lua':'https://www.xintaodian.cn/yuan/?url=',
+   '100bx-云解析':'https://api.100bx.top/?url=',
+   'ok-ok视频解析':'http://okjx.cc/?url=',
+   'play-play解析':'http://playx.top/?url=',
+   'nitian-nitian解析':'http://nitian9.com/?url=',
     'nepian-那片':'http://api.nepian.com/ckparse/?url=',
-    'jq-金桥解析':'http://jqaaa.com/jx.php?url=',
-    'mt2t-云播放':'http://y.mt2t.com/lines?url=',
     'shitou-石头免费':'http://jiexi.071811.cc/jx2.php?url=',
     'bad-百度穷二代视频解析':'http://jx.ejiafarm.com/dy.php?url='
 };
